@@ -104,4 +104,4 @@ Columns: `season`, `inn1` (avg), `inn2` (avg), `run_diff` (avg)
 
 ---
 
-*Data Dictionary maintained by: Data Analytics Capstone Team | April 2026*
+*Data Dictionary maintained by: Team Scaler | April 2026*
